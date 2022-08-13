@@ -1,0 +1,15 @@
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+re
+nltk
+stanfordnlp
+tqdm
+gensim
+warnings
+wordcloud
+textblob
+heapq
+collections
